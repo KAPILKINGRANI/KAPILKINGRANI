@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kapil Kingrani</h1>
+<h1 align="center">Hello I'm Kapil Kingrani</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | Problem Solver | Lifelong Learner </h3>
 <h3 align="center">💻 Crafting Scalable Solutions with Clean Code & Innovation</h3>
 
